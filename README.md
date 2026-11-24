@@ -10,8 +10,8 @@ I am following the **AI Engineer Roadmap 2027** — a 12-phase, 7-month journey 
 
 | Phase | Focus | Status |
 |---|---|---|
-| 1 | Python & Software Engineering | 🔄 Current |
-| 2 | Data & ML Fundamentals | ⏳ Upcoming |
+| 1 | Python & Software Engineering | ✅ Completed|
+| 2 | Data & ML Fundamentals |  🔄 Current |
 | 3 | Deep Learning, NLP & Transformers | ⏳ Upcoming |
 | 4 | Generative AI & LLM Fundamentals | ⏳ Upcoming |
 | 5 | Embeddings, Vector DBs & RAG | ⏳ Upcoming |
